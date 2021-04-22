@@ -50,6 +50,7 @@ The permanence of the snowman is brought out using "Be it sunshine or rain." Thi
 
 - Alliteration
 <br />
+<br />
 - Similie
 <br />
 "like an unmarked gravestone" is an example of a simile used. The simile is likening the cement snowman the speaker's father built for him to an unmarked gravestone. This shows that the snowman is the speaker's only reminder of his father who is mentioned to be gone. This also shows that the writer resents the fathers hard work because the snowman is representing a gravestone which connotes negative feelings. Moreover, the use of unmarked implies that the snowman is seen as insignificant or not important.
