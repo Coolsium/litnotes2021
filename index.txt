@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -6,7 +6,7 @@
 </head>
 
 <body>
-	<h1>Literature Notes (ACSi) 2021</h1>
+	<h1>Literature Notes (ACSI) 2021</h1>
 <hr />
 <h2>The Trouble with Snowmen</h2>
 <p><strong>Father</strong>:</p>
